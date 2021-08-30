@@ -1,0 +1,175 @@
+.head{
+	font-size: 20px;
+	padding: 5px 20px 5px 20px;
+	text-align: right;
+	background-color: #379683;
+	color: white;
+	margin-top: 0px;
+}
+
+.logo{
+	float: left;
+	padding-right:230px;
+	padding-left: 50px;
+	padding-top: 0px;
+}
+.headright{
+	font-size: 25px;
+	float: right;
+	padding: 5px 20px 20px 0px;
+	height: 80px;
+	background-color: white;
+	width: 1190px;
+
+}
+.image{
+	height: 600px;
+	width: 100%;
+
+}
+.plant{
+	padding-top: 24px;
+	font-size: 20px;
+	color:#379683; 
+	font-weight: bold;
+
+}
+.box2{
+	top: 205px;
+	position: relative;
+	border: 2px solid black;
+	height: 350px;
+	width: 450px;
+	float:  right;
+	margin: 20px 100px 10px 20px; 
+	box-shadow: 6px 6px grey;  
+}
+.box1{
+top: 205px;
+	position: relative;
+	border: 2px solid black;
+	height: 350px;
+	width: 450px;
+	float:  right;
+	margin: 20px 100px 10px 20px; 
+	box-shadow: 6px 6px grey;  
+}
+.box11{
+	border: 2px solid black;
+	height: 350px;
+	width: 450px;
+	float:  left;
+	margin: 20px 20px 10px 100px; 
+	box-shadow: 6px 6px grey;  
+	
+}
+.box22{
+	border: 2px solid black;
+	height: 350px;
+	width: 450px;
+	float:  left;
+	margin: 20px 20px 10px 100px; 
+	box-shadow: 6px 6px grey;  
+	
+}
+.boxhead{
+	background-color:#379683;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+.date{
+	background-color:#379683;
+	color: white;
+	font-size: 15px;
+	width: 50px;
+	text-align: center;
+	padding: 0px 5px 0px 5px;
+	margin: 4px 0px 0px 15px;
+	box-shadow: 2px 2px grey; 
+}
+.date1{
+	font-size: 15px;
+	margin: 0px 2px 0px 25px;
+}
+.blue{
+    position: absolute;
+    top:210%;
+	height: 100px;
+	width: 98%;
+	background-color:#379683;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 60px;
+	color: WHITE;
+	
+}
+select{
+	height: 40px;
+	width: 200px;
+}
+option{
+		text-align: center;
+}
+.sli{
+	height: 1000px;
+	width: 750px;
+	background-image: url(C:\Users\user\Desktop\time capsule\website\hbti old photo.jpg);
+	margin: 20px 20px 20px 20px; 
+	animation: slider 30s linear infinite;
+}
+@keyframes slide {
+	25% { background-image: url(hbti old photo.jpg); }
+	50% { background-image: url(yoga function.jpg); }
+	75% { background-image: url(tedx hbtu.jpeg); }
+	100% { background-image: url(building.jpg); }
+}
+.root{
+	font-size: 25px;
+    font-family: serif;
+  
+}
+.FOOT{
+	margin-left: 30px;
+	top: 235px;
+	position: relative;
+	
+}
+    
+    .container {
+ 	 position: relative;
+  	text-align: left;
+  	color:#379683; ;
+  	font-size: 52px;
+  	font-weight: 1900;
+  	font-family: AR julian;
+}
+.centered {
+  	position: absolute;
+  	top: 35%;
+  	left: 50%;
+ 	 transform: translate(-55%, -5%);
+}
+.white{
+	color:#379683;
+}
+.back{
+	color: white;
+}
+.boxfoot1{
+	border: 2px solid#379683;
+	height: 250px;
+	width: 90%;
+	float:  left;
+	margin: 20px 0px 100px 0px;
+	top: 275px;
+	position: relative;
+	background-color:#379683;
+	color: white;
+	padding-left: 120px;
+	padding-top: 20px;
+
+}
+
+
+        
